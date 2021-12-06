@@ -18,6 +18,3 @@
 Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
 
 ---
-work notes: <>/br
-https://habr.com/ru/post/540220/ </br>
-https://vc.ru/dev/181045-doktor-pomogite-u-menya-kubernetes </br>
